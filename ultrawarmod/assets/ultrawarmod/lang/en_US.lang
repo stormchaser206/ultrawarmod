@@ -1,0 +1,57 @@
+tile.UraniumOre.name=Uranium Ore
+tile.CopperOre.name=Copper Ore
+tile.TinOre.name=Tin Ore
+tile.SapphireOre.name=Sapphire Ore
+tile.LeadOre.name=Lead Ore
+tile.BauxiteOre.name=Bauxite Ore
+tile.ZincOre.name=Zinc Ore
+tile.TitaniumOre.name=Titanium Ore
+tile.GraphiteOre.name=Graphite Ore
+
+tile.UraniumBlock.name=Uranium Block
+tile.CopperBlock.name=Copper Block
+tile.TinBlock.name=Tin Block
+tile.SapphireBlock.name=Sapphire Block
+tile.LeadBlock.name=Lead Block
+tile.BauxiteBlock.name=Bauxite Block
+tile.ZincBlock.name=Zinc Block
+tile.TitaniumBlock.name=Titanium Block
+tile.GraphiteBlock.name=Graphite Block
+
+item.UraniumIngot.name=Uranium Ingot
+item.CopperIngot.name=Copper Ingot
+item.TinIngot.name=Tin Ingot
+item.SapphireGem.name=Sapphire Gem
+item.LeadIngot.name=Lead Ingot
+item.BauxiteIngot.name=Bauxite Ingot
+item.ZincIngot.name=Zinc Ingot
+item.TitaniumIngot.name=Titanium Ingot
+item.GraphiteIngot.name=Graphite Ingot
+item.Brass.name=Brass
+
+item.HandsawHandle.name=Handsaw Handle
+item.HandsawPanel.name=Handsaw Panel
+item.SawTeeth.name=Saw Teeth
+item.Handsaw.name=Handsaw
+
+item.CopperSword.name=Copper Sword
+item.CopperPickaxe.name=Copper Pickaxe
+item.CopperAxe.name=Copper Axe
+item.CopperShovel.name=Copper Shovel
+item.CopperHoe.name=Copper Hoe
+item.TinSword.name=Tin Sword
+item.TinPickaxe.name=Tin Pickaxe
+item.TinAxe.name=Tin Axe
+item.TinShovel.name=Tin Shovel
+item.TinHoe.name=Tin Hoe
+item.SapphirePickaxe.name=Sapphire Pickaxe
+item.SapphireAxe.name=Sapphire Axe
+item.SapphireShovel.name=Sapphire Shovel
+item.SapphireSword.name=Sapphire Sword
+item.SapphireHoe.name=Sapphire Hoe
+
+itemGroup.tabItems=UWM Items
+itemGroup.tabBlocks=UWM Blocks
+itemGroup.tabTools=UWM Tools & Armor
+itemGroup.tabWeapons=UWM Weapons
+itemGroup.tabMachines=UWM Machines
